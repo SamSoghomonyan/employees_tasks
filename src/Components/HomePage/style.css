@@ -1,0 +1,19 @@
+.home {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(12, 12, 39);
+}
+
+.home h1 {
+  margin-left: 20px;
+  font-weight: 600;
+  font-size: 28px;
+  color: white;
+  cursor: pointer;
+}
+
+.home h1:hover {
+  color: brown;
+}

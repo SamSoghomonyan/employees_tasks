@@ -1,0 +1,20 @@
+.search input {
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 200px;
+}
+
+.buttonSearch {
+  height: 50px;
+  width: 200px;
+  margin-left: 6px;
+  background-color: brown;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.buttonSearch:hover {
+  background-color: rgb(199, 51, 125);
+  color: black;
+}
